@@ -3,7 +3,7 @@ name = "SigmaOS-arch-cpp"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-cpp component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
