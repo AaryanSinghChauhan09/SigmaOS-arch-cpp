@@ -1,4 +1,4 @@
-use arch_cpp::Component;
+use sigmaos_cpp::Component;
 
 #[test]
 fn test_component_new_aaa() {
